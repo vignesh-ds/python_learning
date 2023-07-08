@@ -32,3 +32,27 @@
 # print(type(e))
 # print(type(f))
 # print(type(g))
+
+#5.function creation
+# def printer(x):
+#     return print("helloworld",x)
+
+# printer("helloworld")
+
+# 6.python input and output
+
+# email = input("enter the mail_id :")
+# print(email)
+
+# num1 = input("enter n1:")
+# num2 = input("enter n2:")
+
+# print(num1+num2)
+
+# input always take the value as string we need to change the data type explicitly
+
+# num1 = input("enter n1:")
+# num2 = input("enter n2:")
+
+# print(int(num1)+int(num2))
+
