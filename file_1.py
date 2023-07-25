@@ -130,4 +130,29 @@
         
 #print(count)
 # tutorial on condition flow https://docs.python.org/3/tutorial/controlflow.html
-# while and batch needs to be done
+# while  needs to be done
+
+#Match alternate for if
+
+# vignesh = 143
+# match vignesh:
+#     case 143 | 155:
+#         print('success')
+#     case 150:
+#         print('Failure')
+#     case _:
+#         print('Unknown')    
+        
+# while loop
+# i = 1
+# while i < 10:
+#     print(i)
+#     i +=1    
+
+#function in python
+
+# def bill_amount (actual,discount):
+#     bill = actual - discount
+#     print(bill)
+
+# bill_amount(100,10)
