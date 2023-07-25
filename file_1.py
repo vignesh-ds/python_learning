@@ -56,3 +56,26 @@
 
 # print(int(num1)+int(num2))
 
+# print(15 + 20)
+# print(75 - 25)
+# print(20 * 20)
+# print(10 // 2)
+
+# a = True
+# b = True
+
+# if a and b:
+#     print("All true !!")
+
+# a = True
+# b = False
+
+# if a or b:
+#     print("All true !!")
+
+# a = True
+# b = False
+
+# if not(a) and not(b):
+#     print("All true !!")
+
