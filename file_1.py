@@ -156,3 +156,17 @@
 #     print(bill)
 
 # bill_amount(100,10)
+
+# scope in python global, internal and built in 
+
+# amount = 10
+
+# def quality_10():
+#     salary = 20
+#     def q2():
+#         sal = salary + amount
+#         print(sal)
+#         print("check:" ,amount)
+#     q2()
+# quality_10()    
+
